@@ -7,6 +7,10 @@ The following data is from a company called NexusLink that specializes in sellin
 
 The dashboard can be accessed [here](https://public.tableau.com/shared/575XDNSNM?:display_count=n&:origin=viz_share_link).
 
+## Data Overview
+
+<img src="images/crm.png" alt = "Entity relationship diagram" width = "700">
+
 ## Executive Summary
 
 This report provides a comprehensive analysis of our sales performance, identifying key strengths, areas for improvement, and strategic recommendations. Darcel Schlecth is our top-performing salesperson, significantly surpassing others in closed deal value with an efficient closing time of 49.3 days. However, Violet Mclelland and Willburn Farren are underperforming, requiring intervention for performance improvement. Moses Frase and Lajuana Vencil take the longest to close deals, suggesting a need for process optimization.
