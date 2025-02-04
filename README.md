@@ -55,7 +55,7 @@ Our top-performing salesperson for the year by total revenue is Darcel Schlecth,
   
 - **Most Valuable Companies**: Acme Corporation and Sonron brought in $519,349 and $479,028, respectively.
  
- <img  src="images/Managers Total Close Value.png"  alt="Showcases the Managers Ranked by Revenue generated"  width="500">
+ <img  src="images/Top Companies.png"  alt="Showcases the Top Companies by Revenue Generated"  width="500">
 
 - **Recent Purchases**: Condax and Conex have made the most recent purchases, indicating strong customer engagement.
   
